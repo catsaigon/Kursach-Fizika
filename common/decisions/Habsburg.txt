@@ -41,33 +41,54 @@ form_habsburg_category = {
 			102 = { add_core_of = ROOT }
 			103 = { add_core_of = ROOT }
 			104 = { add_core_of = ROOT }
+			105 = { add_core_of = ROOT }
 			109 = { add_core_of = ROOT }
-			45 = { add_core_of = ROOT }
-			83 = { add_core_of = ROOT }
-			76 = { add_core_of = ROOT }
-			84 = { add_core_of = ROOT }
-			39 = { add_core_of = ROOT }
 			163 = { add_core_of = ROOT }
+			39 = { add_core_of = ROOT }
+			45 = { add_core_of = ROOT }
+			76 = { add_core_of = ROOT }
+			83 = { add_core_of = ROOT }
+			84 = { add_core_of = ROOT }
 			736 = { add_core_of = ROOT }
+			
+			778 = { add_core_of = ROOT }
+			811 = { add_core_of = ROOT }
+			814 = { add_core_of = ROOT }
+			816 = { add_core_of = ROOT }
+			817 = { add_core_of = ROOT }
+			826 = { add_core_of = ROOT }
+			827 = { add_core_of = ROOT }
+			828 = { add_core_of = ROOT }
+			858 = { add_core_of = ROOT }
 			# Austria
 			custom_effect_tooltip = form_country_austria_coring_states_tt
 			hidden_effect = {
-				153 = { add_core_of = ROOT }
-				152 = { add_core_of = ROOT }
 				4 = { add_core_of = ROOT }
+				152 = { add_core_of = ROOT }
+				153 = { add_core_of = ROOT }
+				
+				810 = { add_core_of = ROOT }
+				839 = { add_core_of = ROOT }
+				840 = { add_core_of = ROOT }
+				841 = { add_core_of = ROOT }
+				845 = { add_core_of = ROOT }
 			}
 			# Czechoslovakia
 			custom_effect_tooltip = form_country_czechoslovakia_coring_states_tt
 			hidden_effect = {
-				69 = { add_core_of = ROOT }
 				9 = { add_core_of = ROOT }
-				75 = { add_core_of = ROOT }
-				74 = { add_core_of = ROOT }
-				72 = { add_core_of = ROOT }
-				70 = { add_core_of = ROOT }
 				664 = { add_core_of = ROOT }
+				69 = { add_core_of = ROOT }
+				70 = { add_core_of = ROOT }
 				71 = { add_core_of = ROOT }
+				72 = { add_core_of = ROOT }
 				73 = { add_core_of = ROOT }
+				74 = { add_core_of = ROOT }
+				75 = { add_core_of = ROOT }
+				815 = { add_core_of = ROOT }
+				847 = { add_core_of = ROOT }
+				848 = { add_core_of = ROOT }
+				849 = { add_core_of = ROOT }
 			}
 			# Hungary
 			custom_effect_tooltip = form_country_hungary_coring_states_tt
@@ -75,6 +96,8 @@ form_habsburg_category = {
 				155 = { add_core_of = ROOT }
 				43 = { add_core_of = ROOT }
 				154 = { add_core_of = ROOT }
+				784 = { add_core_of = ROOT }
+				783 = { add_core_of = ROOT }
 			}
 			hidden_effect = {
 				news_event = { id = wtt_news.56 hours = 6 }
