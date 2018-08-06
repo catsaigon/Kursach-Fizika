@@ -406,6 +406,8 @@ form_commonwealth_category = {
 				controls_state = 798
 				controls_state = 837
 				controls_state = 844
+				controls_state = 898
+				controls_state = 899
 			}
 		}
 
@@ -458,6 +460,10 @@ form_commonwealth_category = {
 				798 = { add_core_of = ROOT }
 				837 = { add_core_of = ROOT }
 				844 = { add_core_of = ROOT }
+				898 = { add_core_of = ROOT }
+				899 = { add_core_of = ROOT }
+				900 = { add_core_of = ROOT }
+				902 = { add_core_of = ROOT }
 			}
 
 			hidden_effect = {
