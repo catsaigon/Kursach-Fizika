@@ -200,6 +200,15 @@ country_event = {
 		add_state_claim = 774
 		add_state_claim = 837
 		add_state_claim = 844
+		add_state_claim = 788
+		add_state_claim = 789
+		add_state_claim = 792
+		add_state_claim = 793
+		add_state_claim = 794
+		add_state_claim = 795
+		add_state_claim = 796
+		add_state_claim = 797
+		add_state_claim = 799
 		hidden_effect =  { add_timed_idea = { idea = SOV_molotov_ribbentrop_pact days = 730 } }
 		GER = {
 			country_event = { days = 1 id = germany.12 }
