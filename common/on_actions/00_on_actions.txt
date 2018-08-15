@@ -785,19 +785,10 @@ on_actions = {
 						original_tag = GER
 						has_government = fascism
 					}
+					original_tag = GER
 					OR = {
-						AND = {
-							original_tag = GER
-							has_government = neutrality
-						}
-						AND = {
-							original_tag = GER
-							has_government = trozkism
-						}
-						AND = {
-							original_tag = GER
-							has_government = monarchy
-						}
+						has_government = neutrality
+						has_government = monarchy
 					}
 				}
 				set_global_flag = { flag = civil_war_olympics value = 1 days = 30 }
