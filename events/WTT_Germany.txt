@@ -219,7 +219,7 @@ country_event = {
 			desc = "POLITICS_WILHELM_II_DESC"
 			picture = GFX_portrait_ger_wilhelm_ii
 			expire = "1965.1.1"
-			ideology = despotism
+			ideology = monarchy_ideology
 			traits = {
 				anti_democrat imperial_connections
 			}
