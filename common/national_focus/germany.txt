@@ -5616,7 +5616,7 @@ focus_tree = {
 			add_ideas = GER_revive_the_kaiserreich
 			custom_effect_tooltip = GER_revive_the_kaiserreich_tt
 			hidden_effect = { set_cosmetic_tag = GER_german_empire }
-			set_party_name = { ideology = monarchy long_name = GER_monarchy_party_kaiserreich_long name = GER_monarchy_party_kaiserreich }
+			set_party_name = { ideology = monarchy long_name = GER_neutrality_party_kaiserreich_long name = GER_neutrality_party_kaiserreich }
 			set_rule = { can_send_volunteers = yes }
 			add_named_threat = { threat = 5 name = GER_revive_the_kaiserreich }
 		}
@@ -6730,7 +6730,7 @@ focus_tree = {
 				limit = {
 					has_full_control_of_state = 5
 				}
-				5 = {
+				762 = {
 					custom_effect_tooltip = GER_see_to_the_eastern_front_tt
 					hidden_effect = {
 						add_building_construction = {
@@ -6757,6 +6757,10 @@ focus_tree = {
 							province = 3384
 							instant_build = yes
 						}
+					}
+				}
+				791 = {
+					hidden_effect = {
 						add_building_construction = {
 							type = bunker
 							level = 2
@@ -7182,7 +7186,7 @@ focus_tree = {
 		
 		completion_reward = {
 			add_ideas = { GER_reestablish_free_elections }
-			set_party_name = { ideology = monarchy long_name = GER_monarchy_party_kaiserreich_long name = GER_monarchy_party_kaiserreich }
+			set_party_name = { ideology = monarchy long_name = GER_neutrality_party_kaiserreich_long name = GER_neutrality_party_kaiserreich }
 		}
 	}
 
